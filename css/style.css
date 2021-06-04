@@ -64,7 +64,7 @@ footer .nav__list a, footer .logo a{
     height: 40px;
     border: 1px solid blue;
     border-radius: 4px;
-    background-color: none;
+    background: none;
     display: flex;
     align-items: center;
     justify-content: center;
