@@ -233,7 +233,7 @@ footer .nav__list a, footer .logo a{
 .register input, .login input, .login .button, .register .button {
     width: 100%;
     padding: 8px;
-    background: none;
+    background-color: blue;
     border-radius: 4px;
     border:1px solid gray;
     margin-bottom: 10px;
